@@ -1,4 +1,5 @@
 ## Welcome to the Autonomous Mobility Control Lab @ Southeast University!
+**Intelligence for Motion · Control for Mobility**
 
 ## 🚗 Introduction
 
@@ -30,4 +31,3 @@ We actively contribute to the research community through publications, open-sour
 **Autonomous Mobility Control Lab (AMC Lab)**  
 *Southeast University*
 
-**Intelligence for Motion · Control for Mobility**
